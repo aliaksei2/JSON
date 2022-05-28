@@ -1,0 +1,19 @@
+{
+	"films":{
+		"favorit film":"hercules"
+	}
+	"seriess":{
+		"favorit seriess":"lost"
+	}
+	"food":{
+		"favorit food":"Big Mac",
+		"favorit food":"pizza"
+	}
+	"season":{
+		"favorit season":"summer"
+	}
+	"country":{
+		"i want to visit":"America"
+	}
+}
+
