@@ -1,0 +1,16 @@
+{
+	"person":{
+		"name":"Alex",
+		"surname":"Dubrova",
+		"age":24
+	}
+	"pets":{
+		"cats":0,
+		"dogs":0,
+		"birds":0
+	}
+	"wages":{
+		"i would like":"<1000$"
+	}
+
+
