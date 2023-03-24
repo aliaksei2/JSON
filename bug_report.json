@@ -1,1 +1,12 @@
 
+{
+  "summary":"don't open pay page",
+  "severity":"high",
+  "step to reproduce": [
+      "1":"open website",
+      "2":"click on the button 'pay'"
+    ]
+  "actueal result":"page don't open after click on the button",
+  "expected resuıt":"page open after click on the buuton and user can pay your order",
+  "attuchment":"screnshot"
+}
